@@ -1,0 +1,2 @@
+curl -d "<symbol>WSO2</symbol>" localhost:8080/sample-responses/simpleQuote -v
+
